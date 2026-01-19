@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Luke Lunzer, and I am currently a student at ASU! I am going for a degree in Graphic Informational Technology, and I am currently a Junior.
+\
+I am an album cover designer, as well as a designer of whatever else a music artist may need! My work can be found at either of these links: instagram.com/lunzerart or twitter.com/lunzerart
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2i0QIuHqoui64KdE9xxAbL?si=hjStVrFMRIqjRuaiJ2pR2Q)
