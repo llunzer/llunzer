@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 My name is Luke Lunzer, and I am currently a student at ASU! I am going for a degree in Graphic Informational Technology, and I am currently a Junior.
 \
+
 I am an album cover designer, as well as a designer of whatever else a music artist may need! My work can be found at either of these links: instagram.com/lunzerart or twitter.com/lunzerart
+
+I am proficient in Adobe Illustrator and Photoshop, and am currently learning code at ASU! 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/_lunz_?si=517c14ad59314884)
