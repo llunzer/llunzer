@@ -18,4 +18,4 @@ My name is Luke Lunzer, and I am currently a student at ASU! I am going for a de
 \
 I am an album cover designer, as well as a designer of whatever else a music artist may need! My work can be found at either of these links: instagram.com/lunzerart or twitter.com/lunzerart
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2i0QIuHqoui64KdE9xxAbL?si=hjStVrFMRIqjRuaiJ2pR2Q)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/_lunz_?si=517c14ad59314884)
